@@ -120,7 +120,7 @@
               <b-list-group-item>
                 <h5>Técnico Vocacional en Desarrollo de Software</h5>
                 <div>Instituto Nacional Isidro Menéndez</div>
-                <div>2013-2025</div>
+                <div>2013-2015</div>
                 <div>
                   <b-badge variant="secondary">
                     <b-icon icon="award-fill" />Excelencia Académica de la
