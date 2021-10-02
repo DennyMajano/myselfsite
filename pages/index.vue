@@ -135,7 +135,7 @@
       <b-col md="6">
         <b-card no-body class="h-100">
           <b-card-body>
-            <b-card-title>Proyectos</b-card-title>
+            <b-card-title>Proyectos Académicos y colaborativos</b-card-title>
             <b-list-group flush>
               <b-list-group-item>
                 SOFTWARE DE REPORTE CIUDADANO
@@ -192,12 +192,16 @@
             <b-badge variant="secondary">PHP </b-badge>
             <b-badge variant="secondary">Express JS </b-badge>
             <b-badge variant="secondary">C# </b-badge>
+            <b-badge variant="secondary">.Net Básico</b-badge>
+            <b-badge variant="secondary">Microsoft Visual Studio</b-badge>
             <b-badge variant="secondary">Unity</b-badge>
             <b-badge variant="secondary">Paint.net</b-badge>
             <b-badge variant="secondary">Blender</b-badge>
             <b-badge variant="secondary">MongoDB</b-badge>
             <b-badge variant="secondary">Slim Framework</b-badge>
             <b-badge variant="secondary">Angular</b-badge>
+            <b-badge variant="secondary">SQL Server básico</b-badge>
+            
           </b-card-body>
         </b-card>
       </b-col>
