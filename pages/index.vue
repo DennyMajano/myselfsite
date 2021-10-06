@@ -8,7 +8,7 @@
             <b-col md="4" class="border-right pr-4 pl-4">
               <div class="text-center">
                 <b-card-img
-                  src="../static/img/profile.png"
+                  src="../static/profile.png"
                   alt="Image"
                   class="rounded-0"
                   style="height: 12rem; width: auto"
