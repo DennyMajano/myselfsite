@@ -4,7 +4,7 @@
       <b-col>
         <b-card no-body class="p-2" style="max-width: 100%">
           <b-row>
-            <!-- Lado izquierdo -->
+            <!-- Lado izquierdo  -->
             <b-col md="4" class="border-right pr-4 pl-4">
               <div class="text-center">
                 <b-card-img
