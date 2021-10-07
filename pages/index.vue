@@ -45,7 +45,7 @@
                   <li></li>
                 </ul>
               </b-card-text>
-              <hr />
+              <hr/>
               <b-card-sub-title class="mb-2">Repositorios</b-card-sub-title>
               <b-card-text>
                 <ul class="list-unstyled">
@@ -80,7 +80,7 @@
               </b-card-text>
               <!-- /Hobbies -->
               <!-- Otros Conocimiento -->
-              <hr />
+              <hr/>
               <b-card-sub-title>Otros conocimientos / usados</b-card-sub-title>
               <b-badge variant="secondary">Ubuntu</b-badge>
               <b-badge variant="secondary">VS Code</b-badge>
