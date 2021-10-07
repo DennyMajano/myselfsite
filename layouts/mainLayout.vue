@@ -8,7 +8,9 @@
 </template>
 
 <script>
-export default {}
+export default {
+  name:"mainLayout"
+}
 </script>
 
 <style></style>

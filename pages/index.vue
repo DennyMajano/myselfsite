@@ -216,6 +216,7 @@
 <script>
 export default {
   name: 'index',
+  layout:"mainLayout"
 }
 </script>
 <style></style>
