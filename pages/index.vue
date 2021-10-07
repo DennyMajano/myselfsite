@@ -27,7 +27,7 @@
               </b-card-text>
               <hr />
               <b-card-sub-title class="mb-2">Contacto</b-card-sub-title>
-              <b-card-text>
+              <div>
                 <ul class="list-unstyled">
                   <li>
                     <b-icon
@@ -44,10 +44,10 @@
                   </li>
                   <li></li>
                 </ul>
-              </b-card-text>
-              <hr/>
+              </div>
+              <hr />
               <b-card-sub-title class="mb-2">Repositorios</b-card-sub-title>
-              <b-card-text>
+              <div>
                 <ul class="list-unstyled">
                   <li>
                     <b-icon icon="github" class="mr-2" /><a
@@ -62,7 +62,7 @@
                     >
                   </li>
                 </ul>
-              </b-card-text>
+              </div>
 
               <!-- Idiomas -->
               <hr />
@@ -80,7 +80,7 @@
               </b-card-text>
               <!-- /Hobbies -->
               <!-- Otros Conocimiento -->
-              <hr/>
+              <hr />
               <b-card-sub-title>Otros conocimientos / usados</b-card-sub-title>
               <b-badge variant="secondary">Ubuntu</b-badge>
               <b-badge variant="secondary">VS Code</b-badge>
@@ -137,14 +137,19 @@
               <b-card-title>Proyectos Académicos y colaborativos</b-card-title>
               <b-list-group flush>
                 <b-list-group-item>
-                  <h6>Software de reporte ciudadano | <small>Académico</small></h6>
+                  <h6>
+                    Software de reporte ciudadano | <small>Académico</small>
+                  </h6>
                   <div>
                     Angular, Firestore, Firebase Cloud Functions, Android
                     Vanilla
                   </div>
                 </b-list-group-item>
                 <b-list-group-item>
-                  <h6>Plataforma Bibliotech (buscador de contenido) | <small>Académico, Proyecto de horas sociales </small></h6>
+                  <h6>
+                    Plataforma Bibliotech (buscador de contenido) |
+                    <small>Académico, Proyecto de horas sociales </small>
+                  </h6>
                   <div>Angular, MongoDB, NodeJs Express</div>
                 </b-list-group-item>
                 <b-list-group-item>
@@ -152,7 +157,13 @@
                   <div>ReactJs, MariaDB, NodeJs Express</div>
                 </b-list-group-item>
                 <b-list-group-item>
-                  <h6>Software de administración de iglesia | <small>Académico, Proyecto de pre-especialización de carrera</small></h6>
+                  <h6>
+                    Software de administración de iglesia |
+                    <small
+                      >Académico, Proyecto de pre-especialización de
+                      carrera</small
+                    >
+                  </h6>
                   <div>ReactJs, MariaDB, NodeJs Express</div>
                 </b-list-group-item>
               </b-list-group>
@@ -196,16 +207,26 @@
               <b-card-title>Otros cursos</b-card-title>
               <b-list-group flush>
                 <b-list-group-item>
-                  <h6><a href="https://google.qwiklabs.com/course_templates/156" target="_blank">Google Cloud Computing Foundations: Data, ML, and AI in Google Cloud</a></h6>
+                  <h6>
+                    <a
+                      href="https://google.qwiklabs.com/course_templates/156"
+                      target="_blank"
+                      >Google Cloud Computing Foundations: Data, ML, and AI in
+                      Google Cloud</a
+                    >
+                  </h6>
                   <div>
-                   <a href="https://google.qwiklabs.com/public_profiles/37a05d64-bec3-47d7-ab6d-68b27804341d" target="_blank">Badges de cursos finalizados</a>
+                    <a
+                      href="https://google.qwiklabs.com/public_profiles/37a05d64-bec3-47d7-ab6d-68b27804341d"
+                      target="_blank"
+                      >Badges de cursos finalizados</a
+                    >
                   </div>
                 </b-list-group-item>
               </b-list-group>
-                <!-- Otros cursos -->
+              <!-- Otros cursos -->
             </b-col>
             <!-- /Lado derecho -->
-
           </b-row>
         </b-card>
       </b-col>
@@ -216,7 +237,7 @@
 <script>
 export default {
   name: 'index',
-  layout:"mainLayout"
+  layout: 'mainLayout',
 }
 </script>
 <style></style>
